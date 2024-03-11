@@ -1,0 +1,4 @@
+
+- App.py flask application could be updated to host more complicated python projects
+
+- Understanding how connections created for public ip
