@@ -133,7 +133,7 @@ One of the most significant insights I've gained is the importance of abstractio
 Happy Terraforming! 👾
 
 ## 👋 Connect with Me
-Let's connect and continue the conversation! Feel free to reach out to me via my socials below to share your thoughts, insights, and experiences with this modern GCP Data Engineering Pipeline. I look forward to connecting with fellow GCP enthusiasts and data engineering enthusiasts for ideas to improve this project! 
+Let's connect and continue the conversation! Feel free to reach out to me via my socials below to share your thoughts, insights, and experiences with IaC tools or Terraform. I look forward to connecting with fellow IaC or Terraform enthusiasts and DevOps enthusiasts for ideas on future project! 
 
 [<img src="https://github.com/shiv-rna/Airflow-Basics/blob/e4ea0578dc2f664532a17755fe21534a9bd33e51/docs/linkedin.png" alt="Linkedin" width="50"/>](https://www.linkedin.com/in/sr099/) [<img src="https://github.com/shiv-rna/Airflow-Basics/blob/e4ea0578dc2f664532a17755fe21534a9bd33e51/docs/twitterx.png" alt="TwitterX" width="50"/>](https://twitter.com/wtfisshivang)
 
