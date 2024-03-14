@@ -1,8 +1,14 @@
+[<img src="docs/terra.png" align="right" width="60">](https://www.terraform.io/)
+
 # 🗺 Terraform Learning Journey
 
 Welcome to my Terraform Learning Journey repository!🤓 This repository documents my progress through a structured learning path covering various aspects of Terraform, from basic setup to advanced topics.
 ## Terraform
 Terraform is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp. It enables users to define and provision infrastructure resources in a declarative manner, allowing for automation, consistency, and scalability in managing infrastructure across various cloud providers and on-premises environments.
+
+<p align="center">
+    <img src="docs/terraform-arch.png" alt="Terraform Architecture" width="800"/>
+</p>
 
 ## 🚀 Getting Started with Terraform
 
@@ -124,6 +130,8 @@ Understanding the significance of HashiCorp Vault for secret management. Vault p
 **Integrating Terraform with Vault for Secrets**
 
 Implementing Vault integration for managing sensitive data securely. I learned how to integrate Terraform with Vault to retrieve and use secrets within configurations, enhancing security and compliance measures.
+
+![Vault-demo](docs/Vault-showcase.gif)
 
 ## 👨‍💻 Conclusion
 
